@@ -1,0 +1,54 @@
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+C:\CryptoProzorov\Crypto1\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+C:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+C:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+C:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+C:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
+I:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+I:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+I:\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+I:\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+C:\Users\stud\Desktop\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+D:\Visual stud\CryptoProzorov\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
+D:\Crypto\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+D:\Crypto\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+D:\Crypto\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.csprojResolveAssemblyReference.cache
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+D:\Crypto\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.Cache
